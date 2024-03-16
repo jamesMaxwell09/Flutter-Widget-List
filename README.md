@@ -8,4 +8,6 @@ Stops the playback but keeps the current position.
   await player.pause();
 ```
 
-https://www.youtube.com/watch?v=GAvhpJMNKZs
+This site was built using [GitHub Pages]([https://pages.github.com/](https://www.youtube.com/watch?v=GAvhpJMNKZs)https://www.youtube.com/watch?v=GAvhpJMNKZs).
+
+
